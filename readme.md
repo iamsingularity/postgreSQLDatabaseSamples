@@ -1,4 +1,4 @@
-# Postres Database Samples
+# PostgreSQL Database Samples
 
 A collection of sample databases for PostgreSQL.
 
